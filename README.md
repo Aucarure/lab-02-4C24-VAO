@@ -1,3 +1,2 @@
 # lab-02-4C24-VAO
-# lab-02-4C24-VAO //////
-# Laboratorios
+# Cambios desde el respositorio clonado
